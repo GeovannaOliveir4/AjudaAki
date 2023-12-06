@@ -1,6 +1,6 @@
 # AjudaAki
 
-![Logo do projeto](https://placeholder.com/150)
+![Logo do projeto](./images/AjudaAki.png)
 
 Nos tempos modernos, a busca por serviços confiáveis e acessíveis é uma necessidade constante. Nesse contexto, uma plataforma de prestadores de serviços surge como uma solução promissora, visando conectar pessoas que oferecem habilidades e conhecimentos específicos aos que precisam desses serviços.
 
@@ -9,8 +9,6 @@ Essas plataformas têm o potencial de proporcionar benefícios tanto no aspecto 
 Além disso, a plataforma de prestadores de serviços também desempenha um papel importante no contexto social. Ela promove a colaboração e a conexão entre as pessoas, permitindo que elas compartilhem suas habilidades e experiências. Isso contribui para fortalecer os laços comunitários e criar um senso de solidariedade, uma vez que as pessoas podem ajudar umas às outras com base em suas competências individuais. Essa troca de conhecimentos e serviços não apenas atende às necessidades imediatas dos usuários, mas também promove um ambiente de cooperação e confiança mútua.
 
 Ao facilitar o acesso a uma ampla gama de serviços e ao promover interações sociais positivas, uma plataforma de prestadores de serviços desempenha um papel crucial na vida das pessoas. Ela torna possível a realização de tarefas e projetos de forma mais eficiente e econômica, além de cultivar um senso de comunidade e colaboração. Em um mundo onde a tecnologia desempenha um papel cada vez mais central, essas plataformas são uma resposta inovadora às necessidades monetárias e sociais da sociedade contemporânea.
-
-## Objetivo
 
 #### Tecnologias utilizadas
 
