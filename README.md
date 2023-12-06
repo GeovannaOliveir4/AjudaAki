@@ -27,9 +27,8 @@ Ao facilitar o acesso a uma ampla gama de serviços e ao promover interações s
 
 |Nome|GitHub|LinkedIn|
 |---|---|---|
-|Geovanna Gizella Oliveira|[GeovannaOliveir4](https://github.com/GeovannaOliveir4)|[LinkedIn](https://www.linkedin.com/in/geovanna-oliveira-662524230/)|
-|Apolo Nicolas|[playapollonickolas](https://github.com/playapollonickolas)|[LinkedIn](https://www.linkedin.com/in/apolo-nicolas-55b747216/overlay/about-this-profile/)|
-
+|Geovanna Gizella Oliveira|<a href="https://github.com/GeovannaOliveir4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" align="center"></a>|<a href="https://www.linkedin.com/in/geovanna-oliveira-662524230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>|
+|APolo Nicolas|<a href="https://github.com/playapollonickolas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" align="center"></a>|<a href="https://www.linkedin.com/in/apolo-nicolas-55b747216/overlay/about-this-profile/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>|
 ## Páginas, Responsáveis e Progresso
 
 |Página | Responsável | Status| Descrição |
